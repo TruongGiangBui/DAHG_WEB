@@ -1,0 +1,461 @@
+[{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1e1"
+  },
+  "movie_name_eng": "Iron Man",
+  "movie_name_vie": "Người Sắt",
+  "poster_link": "/appdata/filmposters/Iron-Man.jpg",
+  "trailer_link": "https://www.youtube.com/embed/8ugaeA-nMTc",
+  "film_link": "https://drive.google.com/file/d/1M8H6f18lL_l3cHn9dG5eQFWdJUo_o-WB/preview",
+  "film_content": "Tony Stark vừa là chủ tập đoàn công nghệ, vừa là một tay chơi kỳ dị. Trong chuyến thị sát Afghanistan, ông bị nhóm khủng bố bắt cóc. Chúng đòi Tony chế tạo thứ vũ khí hủy diệt để tấn công nước Mỹ.\n\n\nNhận ra sự thật phũ phàng rằng, những vũ khí do mình chế tạo đang quay ngược lại tấn công chính mình, Tony bắt tay chế tạo bộ giáp công nghệ cao. Tẩu thoát khỏi nơi giam cầm, Tony trở thành đại diện công lý dưới biệt danh Người sắt. Trong khi đó, người đồng sự trong tập đoàn Stark âm mưu lật đổ Tony.\n\n\nBộ phim mở ra câu chuyện trong tương lai về nhóm siêu anh hùng Avenger khi tổ chức bí mật SHIELD bắt đầu lộ diện.",
+  "status": "Hoàn tất ",
+  "idmb": "7.9",
+  "director": "Jon Favreau, ",
+  "country": "Mỹ, ",
+  "release_date": "30/4/2008",
+  "timespan": "126 phút",
+  "quality": "Bản đẹp",
+  "resolution": "Full HD",
+  "slug": "Iron-Man",
+  "views": 101
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1e2"
+  },
+  "movie_name_eng": "Iron Man 2",
+  "movie_name_vie": "Người Sắt 2",
+  "poster_link": "/appdata/filmposters/Iron-Man-2.jpg",
+  "trailer_link": "https://www.youtube.com/embed/BoohRoVA9WQ",
+  "film_link": "https://drive.google.com/file/d/1selyeTfQ6TWWieg3Dy94OA4kyPfcgcYB/preview",
+  "film_content": "Tony Stark tự hé lộ thân phận Người sắt của mình cho công chúng và chìm trong hào quang danh vọng. Một kẻ lạ mặt xuất hiện tấn công anh trên đường đua Monte Carlo. Tony bị hiện tượng nhiễm trùng máu đe dọa mạng sống, còn tên sát thủ kia bắt tay với đối thủ của tập đoàn Stark hòng thôn tính Tony.\n\nPhần 2 của Người sắt là lần đầu tiên trợ thủ Warmachine xuất hiện. Phim cũng tiết lộ những bí mật về cha của Tony, Howard Stark, trước khi dẫn dắt câu chuyện sang nhân vật Captain America, đồng đội tương lai của Người sắt tại tổ chức SHIELD.",
+  "status": "Hoàn tất ",
+  "idmb": "7",
+  "director": "Jon Favreau, ",
+  "country": "Mỹ, ",
+  "release_date": "28/4/2010",
+  "timespan": "124 phút",
+  "quality": "Bản đẹp",
+  "resolution": "Full HD",
+  "slug": "Iron-Man-2",
+  "views": 102
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1e3"
+  },
+  "movie_name_eng": "Iron Man 3",
+  "movie_name_vie": "Người Sắt 3",
+  "poster_link": "/appdata/filmposters/Iron-Man-3.jpg",
+  "trailer_link": "https://www.youtube.com/embed/Ke1Y3P9D0Bc",
+  "film_link": "https://drive.google.com/file/d/1YCxcdZvwPhhpPRK43V2v6D61LYXobKAq/preview",
+  "film_content": "Từ sau những sự kiện và những trận chiến đầy ám ảnh trong The Avengers, Tony Stark quay về ở ẩn trong căn biệt thự sang trọng của mình, tạm thời chờ đợi trong tư cách một tỷ phú giàu có được yêu mến và gác danh phận siêu anh hùng sang một bên.\nTuy nhiên, những hiểm họa mới lại tiếp tục xuất hiện dưới bóng ma bao trùm của một quái nhân, đồng thời cũng là một thiên tài về công nghệ - The Mandarin. Người bạn thân trong lực lượng quân đội Hoa Kỳ của Tony - James Rhodes cần tới sự giúp đỡ của anh và những bộ giáp siêu việt.\nMọi chuyện không hề dễ dàng như Tony và James tưởng tượng: dưới sức mạnh thần bí của mười chiếc nhẫn vũ trụ, The Mandarin đã đánh bại \"Người Sắt\", đồng thời khiến siêu anh hùng  - tỷ phú trở thành kẻ mất trí nhớ...",
+  "status": "Hoàn tất ",
+  "idmb": "7.3",
+  "director": "Shane Black, ",
+  "country": "Trung Quốc, Mỹ, ",
+  "release_date": "26/4/2013",
+  "timespan": "190 phút",
+  "quality": "Bản đẹp",
+  "resolution": "Full HD",
+  "slug": "Iron-Man-3",
+  "views": 234
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1e4"
+  },
+  "movie_name_eng": "The Incredible Hulk",
+  "movie_name_vie": "Người khổng lồ xanh phi thường",
+  "poster_link": "/appdata/filmposters/The-Incredible-Hulk.jpg",
+  "trailer_link": "https://www.youtube.com/embed/xbqNb2PFKKA",
+  "film_link": "https://drive.google.com/file/d/1UgldTmrGOkSt6AusZXT29nnD9AZSph1r/preview",
+  "film_content": "Sau nhiều năm bị biến thành kẻ nửa người nửa quái vật The Hulk, nhà khoa học Bruce Banner vẫn phải lần trốn trong rừng rậm Nam Mỹ, tìm cách chữa trị cho chính bản thân mình. Cùng lúc đó anh vẫn bị sự truy lùng của quân đội Mỹ, dẫn dắt bởi tướng Ross và tên Emil Blonsky, kẻ muốn sử dụng sức mạnh của The Hulk. Chính tên này sau đó đã tự lặp lại tai nạn của Bruce Banner, với hy vọng biến mình thành siêu nhân. Nhưng Emil phát hiện ra rằng hắn bị biến thành một con quái vật - the Abomination- và không bao giờ trở lại thành dạng người như Bruce được nữa. Đổ lỗi cho Bruce vì sự đột biến của mình, hắn truy sát anh để trả thù.",
+  "status": "Hoàn tất ",
+  "idmb": "6.9",
+  "director": "Louis Leterrier, ",
+  "country": "Mỹ, ",
+  "release_date": "13/6/2008",
+  "timespan": "112 phút",
+  "quality": "Bản đẹp",
+  "resolution": "HD 720p",
+  "slug": "The-Incredible-Hulk",
+  "views": 87
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1e5"
+  },
+  "movie_name_eng": "Thor",
+  "movie_name_vie": "Thần sấm",
+  "poster_link": "/appdata/filmposters/Thor.jpg",
+  "trailer_link": "https://www.youtube.com/embed/JOddp-nlNvQ",
+  "film_link": "https://drive.google.com/file/d/1hcrxne_fjZky7DBbDUL2dNahtSA6DRxw/preview",
+  "film_content": "Phim Thần Sấm là bộ phim được chuyển thể từ bộ truyện tranh nổi tiếng cùng tên của Marvel. Nhân vật chính, Thor là một chiến binh dũng cảm và đầy quyền năng nhưng lại kiêu ngạo của vương quốc Asgard. Chính những hành động không suy tính của Thor đã gây ra một cuộc chiến kéo dài nhiều năm, vì lẽ đó, cha của anh, thần Odin, vị vua của những vị thần đã tước hết sức mạnh của anh và đẩy anh sống cùng loài người. Một nữ khoa học gia trẻ, Jane Foster, dành một tình cảm đặc biệt cho Thor khi cô phát hiện ra anh, và cô trở thành mối tình đầu của Thor. Cô đã có ảnh hưởng sâu sắc đến con người Thor và trở thành mà người Thor yêu say đắm.Trong khi đó, các thế lực đen tối của Asgardlại đang âm mưu xâm chiếm Trái Đất. Để bảo vệ cho những người mình yêu thương, Thor buộc phải đứng lên đương đầu với đoàn quân đến từ Asgard, mà đứng đằng sau chính là kẻ nguy hiểm và độc ác nhất tại thế giới của anh",
+  "status": "Hoàn tất ",
+  "idmb": "7",
+  "director": "Kenneth Branagh, ",
+  "country": "Mỹ, ",
+  "release_date": "29/4/2011",
+  "timespan": "115 phút",
+  "quality": "Bản đẹp",
+  "resolution": "HD 720p",
+  "slug": "Thor",
+  "views": 103
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1e6"
+  },
+  "movie_name_eng": "Thor 2: The Dark World",
+  "movie_name_vie": "Thần Sấm 2: Thế Giới Bóng Tối",
+  "poster_link": "/appdata/filmposters/Thor-2-The-Dark-World.jpg",
+  "trailer_link": "https://www.youtube.com/embed/npvJ9FTgZbM",
+  "film_link": "https://drive.google.com/file/d/1K41ullT3HbH8d6aPvRp8n7UamoB1RnKI/preview",
+  "film_content": "Thần Sấm 2 nói tiếp về quãng thời gian khi Thor trở thành vua xứ Asgard, lúc này anh phải đối mặt với một kẻ thù vô cùng nguy hiểm và mạnh mẽ, đó là The Dark Elves. Hắn thậm chí còn mạnh hơn cả Odin. Trong tình thế vô cùng nguy cấp, Thor đành phải nhờ đến Loki. Cả hai gác bỏ hiềm khích cùng nhau vượt qua một thế giới đen tối và vô cùng lạnh lẽo, nơi được gọi là The Dark Wold.",
+  "status": "Hoàn tất ",
+  "idmb": "7.7",
+  "director": "Alan Taylor, ",
+  "country": "Mỹ, ",
+  "release_date": "112 phút",
+  "timespan": "Bản đẹp",
+  "quality": "HD 720p",
+  "resolution": "Phụ đề việt + Thuyết minh",
+  "slug": "Thor-2-The-Dark-World",
+  "views": 40
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1e7"
+  },
+  "movie_name_eng": "Thor 3: Ragnarok",
+  "movie_name_vie": "Thần Sấm 3: Tận thế Ragnarok",
+  "poster_link": "/appdata/filmposters/Thor-3-Ragnarok.jpg",
+  "trailer_link": "https://www.youtube.com/embed/F7ayGFHGqeQ",
+  "film_link": "https://drive.google.com/file/d/1mbKijn7fRy-ZzIOKLhZ2EsxsEFAkRyn4/preview",
+  "film_content": "Ragnarok ám chỉ “tận cùng của vũ trụ”, đồng nghĩa với trận chiến sống còn của chín cõi (Nine Realms). Sau khi Loki Loki soán ngôi cha Odin, vị thần tinh quái này tiếp tục mở đường nhiễu loạn tiến từ cầu Bifrost vào trong Asgard.Ở bên kia vũ trụ, Thor (Chris Hemsworth) phải bước vào một cuộc chiến đầy khốc liệt với đối thủ mà anh sẽ gặp là một đồng đội cũ đến từ biệt đội Avenger – Hulk. Cuộc tìm kiếm sự sống còn của Thor khiến anh phải chạy đua với thời gian để ngăn chặn Hela (Cate Blanchett) tiêu diệt cả thế giới anh đang sống cùng nền văn minh Asgard.",
+  "status": "Hoàn tất ",
+  "idmb": "7.9",
+  "director": "Taika Waititi, ",
+  "country": "Mỹ, ",
+  "release_date": "27/10/2017",
+  "timespan": "130 phút",
+  "quality": "Bản đẹp",
+  "resolution": "Full HD",
+  "slug": "Thor-3-Ragnarok",
+  "views": 300
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1e8"
+  },
+  "movie_name_eng": "Captain America: The First Avenger",
+  "movie_name_vie": "Đội Trưởng Mỹ",
+  "poster_link": "/appdata/filmposters/Captain-America-The-First-Avenger.jpg",
+  "trailer_link": "https://www.youtube.com/embed/JerVrbLldXw",
+  "film_link": "https://drive.google.com/file/d/1OVscHBPLBMhqC_qD8NtFN-aKk_zQwBpC/preview",
+  "film_content": "Bối cảnh phim bắt đầu năm 1942, khi Mỹ đang tham gia Thế chiến II và cần tới những chiến binh can trường. Chàng trai Steve Rogers (Chris Evans) là một người như vậy, nhưng thể hình quá thấp bé khiến anh không thể đạt được ước mơ tòng quân. Cơ may đến với Rogers khi anh được chọn tham gia một thí nghiệm của chính phủ, giúp biến người thường trở thành siêu chiến binh.\n\nMọi việc diễn ra suôn sẻ, biến Rogers thành một người cao to vạm vỡ, đầu óc tiếp thu mọi kỹ năng chiến đấu nhanh và vẫn giữ được trái tim nhân hậu.Anh trở thành Captain America, biểu tượng của nước Mỹ kể từ đó. Đối thủ của anh là phe Phát-xít, với quái nhân Red Skull, kẻ không chỉ quyền năng mà còn rất tàn ác.",
+  "status": "Hoàn tất ",
+  "idmb": "6.9",
+  "director": "Joe Johnston, ",
+  "country": "Mỹ, ",
+  "release_date": "22/7/2011",
+  "timespan": "124 phút",
+  "quality": "Bản đẹp",
+  "resolution": "HD 720p",
+  "slug": "Captain-America-The-First-Avenger",
+  "views": 250
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1e9"
+  },
+  "movie_name_eng": "Captain America 2: The Winter Soldier",
+  "movie_name_vie": "Đội Trưởng Mỹ 2: Chiến Binh Mùa Đông",
+  "poster_link": "/appdata/filmposters/Captain-America-2-The-Winter-Soldier.jpg",
+  "trailer_link": "https://www.youtube.com/embed/7SlILk2WMTI",
+  "film_link": "https://drive.google.com/file/d/1N7rdfHlkF5unM6nCO2w83tVXiF3WYLu7/preview",
+  "film_content": "Bộ phim là câu chuyện tiếp nối bộ phim The Avengers, khi Steve Rogers phải tìm cách hòa nhập vào thế giới hiện đại và kết hợp với Natasha Romanoff/Black Widow để chiến đấu chống lại một kẻ thù nguy hiểm ở Washington, D.C. Sau cuộc chiến cùng đội The Avengers tại New York, Captain America (hay còn gọi là Steve Rogers) có một cuộc sống khá thầm lặng tại Washington và anh phải vật lộn để thích nghi với cuộc sông ở thế giới hiện đại. Tuy nhiên, khi một người bạn trong SHIELD bị rơi vào vòng nguy hiểm, anh đã bị kéo vào một âm mưu đen tối có thể phá hủy cả nhân loại. Cùng với Black Widow, anh phải ngăn cản âm mưu này đồng thời chiến đấu chống lại nhừng sát thủ chuyên nghiệp được cử tới để thủ tiêu mình. Cặp đôi Captain, Black Widow còn tranh thủ sự giúp đỡ từ người bạn mới, Falcon . Tuy nhiên,một kẻ thù vô cùng nguy hiểm và bí ẩn lúc này lại xuất hiện: The Winter Soldier (Chiến binh mùa Đông)",
+  "status": "Hoàn tất ",
+  "idmb": "7.7",
+  "director": "Anthony Russo, Joe Russo, ",
+  "country": "Mỹ, ",
+  "release_date": "26/3/2014",
+  "timespan": "136 phút",
+  "quality": "Bản đẹp",
+  "resolution": "HD 720p",
+  "slug": "Captain-America-2-The-Winter-Soldier",
+  "views": 502
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1ea"
+  },
+  "movie_name_eng": "Captain America 3: Civil War",
+  "movie_name_vie": "Đội Trưởng Mỹ 3: Nội chiến Siêu Anh Hùng",
+  "poster_link": "/appdata/filmposters/Captain-America-3-Civil-War.jpg",
+  "trailer_link": "https://www.youtube.com/embed/1L3c17AmCZw",
+  "film_link": "https://drive.google.com/file/d/1VoSIfR60AIOdiLmsaqu73C7L3jzta-vB/preview",
+  "film_content": "Captain America: Civil War là câu chuyện theo sau sự kiện Avengers: Age Of Ultron, các liên minh chính phủ trên toàn thế giới thông qua một hiệp ước được thiết lập để điều chỉnh hoạt động của tất cả siêu anh hùng. Điều này gây ra sự phân cực trong nội bộ nhóm Avengers, tạo nên hai phe gồm Iron Man và Captain America, gây ra một trận chiến sử thi giữa những người đồng đội.",
+  "status": "Hoàn tất ",
+  "idmb": "7.8",
+  "director": "Joe Russo, Anthony Russo",
+  "country": "Mỹ, Đức, ",
+  "release_date": "27/4/2016",
+  "timespan": "147 phút",
+  "quality": "Bản đẹp",
+  "resolution": "Full HD",
+  "slug": "Captain-America-3-Civil-War",
+  "views": 807
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1eb"
+  },
+  "movie_name_eng": "The Avengers",
+  "movie_name_vie": "Biệt Đội Siêu Anh Hùng",
+  "poster_link": "/appdata/filmposters/The-Avengers.jpg",
+  "trailer_link": "https://www.youtube.com/embed/eOrNdBpGMv8",
+  "film_link": "https://drive.google.com/file/d/1zaV-y3sOCpDkQQDjl2x9MyuUF_y0CsAq/preview",
+  "film_content": "Marvel’s The Avengers là bộ phim giả tưởng kể về một nhóm siêu anh hùng với những khả năng đặc biệt, họ bao gồm: Người Sắt, Thor, Captain America, và Người Khổng Lồ được gọi chung với cái tên SHIELD. Mục đích của SHIELD là nhằm bảo vệ Trái đất khỏi âm mưu hủy hoại của những thế lực xấu từ ngoài địa cầu mà kẻ cầm đầu là Loki. Marvel’s The Avengers Là một trong những phim được mong đợi nhất hè 2012, phim quy tụ dàn diễn viên đẹp với những cảnh quay sống động đã mang về cho nhà sản xuất hơn 1 tỷ USD. Nếu bạn đã từng là Fan của những siêu phẩm như: Spider-Man, Batman thì Marvel’s The Avengers quả là một bộ phim khó có thể bỏ qua.",
+  "status": "Hoàn tất ",
+  "idmb": "8.1",
+  "director": "Joss Whedon, ",
+  "country": "Mỹ, ",
+  "release_date": "25/4/2012",
+  "timespan": "143 phút",
+  "quality": "Bản đẹp",
+  "resolution": "Full HD",
+  "slug": "The-Avengers",
+  "views": 1019
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1ec"
+  },
+  "movie_name_eng": "Avengers 2: Age of Ultron",
+  "movie_name_vie": "Biệt Đội Siêu Anh Hùng 2: Đế chế Ultron",
+  "poster_link": "/appdata/filmposters/Avengers-2-Age-of-Ultron.jpg",
+  "trailer_link": "https://www.youtube.com/embed/P5iIPfNzj2o",
+  "film_link": "https://drive.google.com/file/d/1msSNqPkX3gm3gFNQQC_ssf0ivVq5h8IG/preview",
+  "film_content": "Trong phần này, biệt đội siêu anh hùng của chúng ta sẽ phải chiến đấu với binh đoàn robot được biết đến với cái tên là Ultron.",
+  "status": "Hoàn tất ",
+  "idmb": "7.9",
+  "director": "Joss Whedon, ",
+  "country": "Mỹ, ",
+  "release_date": "24/4/2015",
+  "timespan": "150 phút",
+  "quality": "Bản đẹp",
+  "resolution": "Full HD",
+  "slug": "Avengers-2-Age-of-Ultron",
+  "views": 600
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1ed"
+  },
+  "movie_name_eng": "Avengers 3: Infinity War",
+  "movie_name_vie": "Biệt Đội Siêu Anh Hùng 3: Cuộc Chiến Vô Cực",
+  "poster_link": "/appdata/filmposters/Avengers-3-Infinity-War.jpg",
+  "trailer_link": "https://www.youtube.com/embed/6ZfuNTqbHE8",
+  "film_link": "https://drive.google.com/file/d/1f8_I8-DVgiDW0F_4oe-a5WhF_NgU-t8J/preview",
+  "film_content": "Sau chuyến hành trình độc nhất vô nhị không ngừng mở rộng và phát triển vụ trũ điện ảnh Marvel, bộ phim Avengers: Cuộc Chiến Vô Cực sẽ mang đến màn ảnh trận chiến cuối cùng khốc liệt nhất mọi thời đại. Biệt đội Avengers và các đồng minh siêu anh hùng của họ phải chấp nhận hy sinh tất cả để có thể chống lại kẻ thù hùng mạnh Thanos trước tham vọng hủy diệt toàn bộ vũ trụ của hắn.",
+  "status": "Hoàn tất ",
+  "idmb": "8.5",
+  "director": "Anthony Russo, Joe Russo, ",
+  "country": "Mỹ, ",
+  "release_date": "25/4/2018",
+  "timespan": "149 phút",
+  "quality": "Bản đẹp",
+  "resolution": "Full HD",
+  "slug": "Avengers-3-Infinity-War",
+  "views": 1502
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1ee"
+  },
+  "movie_name_eng": "Avengers 4: Endgame",
+  "movie_name_vie": "Biệt Đội Siêu Anh Hùng 4: Hồi Kết",
+  "poster_link": "/appdata/filmposters/Avengers-4-Endgame.jpg",
+  "trailer_link": "https://www.youtube.com/embed/TcMBFSGVi1c",
+  "film_link": "https://drive.google.com/file/d/1QYi9BDfE6q9QRCO11zHe4ZIvrqwhgF0b/preview",
+  "film_content": "Biệt Đội Siêu Anh Hùng 4: Tàn Cuộc (Avengers 4: Endgame) ra mắt vào tháng 4/2019 sẽ giải quyết triệt để những khúc mắc đã vạch ra suốt 22 bộ phim trước đó của Vụ trụ điện ảnh Marvel (MCU). Hai tháng sau đó, Người Nhện 2 là khởi đầu hoàn toàn mới dành cho MCU.Sau sự kiện Thanos làm cho một nửa vũ trụ tan biến và khiến cho biệt đội Avengers thảm bại, những siêu anh hùng sống sót phải tham gia trận chiến cuối cùng trong Avengers: Endgame.",
+  "status": "Hoàn tất ",
+  "idmb": "8.5",
+  "director": "Anthony Russo, Joe Russo, ",
+  "country": "Mỹ, ",
+  "release_date": "24/4/2019",
+  "timespan": "181 phút",
+  "quality": "Bản đẹp",
+  "resolution": "Full HD",
+  "slug": "Avengers-4-Endgame",
+  "views": 3012
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1ef"
+  },
+  "movie_name_eng": "Guardians of the Galaxy",
+  "movie_name_vie": "Vệ binh dải ngân hà",
+  "poster_link": "/appdata/filmposters/Guardians-of-the-Galaxy.jpg",
+  "trailer_link": "https://www.youtube.com/embed/d96cjJhvlMA",
+  "film_link": "https://drive.google.com/file/d/1fHO7to4BBbE0migPGkxNdluwdimPTBh2/preview",
+  "film_content": "Phim nói về một phi công phản lực được bị mắc kẹt trong không gian, và anh phải đoàn kết một nhóm người ngoài hành tinh để tạo thành một đội quân đủ khả năng đánh bại các mối đe dọa từ vũ trụ. Phim có sự tham gia diễn xuất của Karen Gillan, Bradley Cooper, Zoe Saldana… và sự chỉ đạo của đạo diễn James Gunn.",
+  "status": "Hoàn tất ",
+  "idmb": "8.8",
+  "director": "James Gunn, ",
+  "country": "Mỹ, ",
+  "release_date": "100 phút",
+  "timespan": "Bản đẹp",
+  "quality": "HD 720p",
+  "resolution": "Phụ đề Việt",
+  "slug": "Guardians-of-the-Galaxy",
+  "views": 400
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1f0"
+  },
+  "movie_name_eng": "Guardians of the Galaxy Vol. 2",
+  "movie_name_vie": "Vệ Binh Dải Ngân Hà 2",
+  "poster_link": "/appdata/filmposters/Guardians-of-the-Galaxy-Vol.-2.jpg",
+  "trailer_link": "https://www.youtube.com/embed/2cv2ueYnKjg",
+  "film_link": "https://drive.google.com/file/d/1Cq0aeOXmQFnT8eHZKwuVecmo6WmsuTmj/preview",
+  "film_content": "Guardians Of The Galaxy - Vệ binh dải ngân hà Phần 2 tiếp tục câu chuyện về bộ tứ huyền thoại của thiên hà. Lần này, cả nhóm sẽ bắt đầu cuộc phiêu lưu mới nhằm tìm ra bí ẩn thân thế của Star Lord – Peter Quill và viên Power Infinity Gem sở hữu sức mạnh vô song. Nhân vật anti-hero Yondu sẽ có vai trò quan trọng hơn nữa trong phần này, bên cạnh đó cô em gái Nebula của Gamora cũng sẽ trở lại.",
+  "status": "Hoàn tất ",
+  "idmb": "7.7",
+  "director": "James Gunn, ",
+  "country": "Mỹ, ",
+  "release_date": "25/4/2017",
+  "timespan": "136 phút",
+  "quality": "Bản đẹp",
+  "resolution": "Full HD",
+  "slug": "Guardians-of-the-Galaxy-Vol.-2",
+  "views": 450
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1f1"
+  },
+  "movie_name_eng": "Ant-Man",
+  "movie_name_vie": "Người Kiến",
+  "poster_link": "/appdata/filmposters/Ant-Man.jpg",
+  "trailer_link": "https://www.youtube.com/embed/pWdKf3MneyI",
+  "film_link": "https://drive.google.com/file/d/1IrDzvGM6Hk7o24U4B7hmZjFXp49T1qBy/preview",
+  "film_content": "Ant-Man kể về câu chuyện của một người đàn ông tên là Scott Lang, có khả năng thu nhỏ về kích thước nhưng lại tăng sức mạnh. Điều này buộc Scott Lang phải đón nhận yếu tố \"anh hùng\" trong mình và giúp cố vấn là Tiến sĩ Hank Pym bảo vệ bí mật đằng sau bộ trang phục Ant-Man, thoát khỏi một mối đe dọa khủng khiếp. Đối mặt với những rào cản khổng lồ, Scott Lang và Hank Pym phải lên kế hoạch hoàn thành một vụ cướp để có thể cứu thế giới.",
+  "status": "Hoàn tất ",
+  "idmb": "7.7",
+  "director": "Peyton Reed, ",
+  "country": "Mỹ, Anh, ",
+  "release_date": "24/7/2015",
+  "timespan": "117 phút",
+  "quality": "Bản đẹp",
+  "resolution": "Full HD",
+  "slug": "Ant-Man",
+  "views": 300
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1f2"
+  },
+  "movie_name_eng": "Ant-Man and the Wasp",
+  "movie_name_vie": "Người Kiến Và Chiến Binh Ong",
+  "poster_link": "/appdata/filmposters/Ant-Man-and-the-Wasp.jpg",
+  "trailer_link": "https://www.youtube.com/embed/8_rTIAOohas",
+  "film_link": "https://drive.google.com/file/d/16OEhIwYI3Bxn9SoEMAqYZF8e71KQJn81/preview",
+  "film_content": "Sau trận nội chiến khốc liệt, Scott Lang – anh hùng Người Kiến với khả năng phóng to, thu nhỏ lại phải đối mặt với sự lựa chọn khó khăn trong cuộc sống đời thường: làm siêu anh hùng gánh vác những trách nhiệm nặng nề của thế giới hay làm một người cha có trách nhiệm. Trong lúc ấy, Scott được tiến sĩ Hank Pym và Hope Van Dyne – Chiến Binh Ong triệu tập để thực hiện một nhiệm vụ cấp bách mới. Scott sẽ phải mặc vào bộ áo Người Kiến một lần nữa và chiến đấu bên cạnh chiến binh ong để lật mở những bí ẩn trong quá khứ.",
+  "status": "Hoàn tất ",
+  "idmb": "8.7",
+  "director": "Peyton Reed, ",
+  "country": "Mỹ, ",
+  "release_date": "6/7/2018",
+  "timespan": "118 phút",
+  "quality": "Bản đẹp",
+  "resolution": "Full HD",
+  "slug": "Ant-Man-and-the-Wasp",
+  "views": 351
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1f3"
+  },
+  "movie_name_eng": "Doctor Strange",
+  "movie_name_vie": "Phù Thủy Tối Thượng",
+  "poster_link": "/appdata/filmposters/Doctor-Strange.jpg",
+  "trailer_link": "https://www.youtube.com/embed/HSzx-zryEgM",
+  "film_link": "https://drive.google.com/file/d/1WeSUeLHiyAC2TRtLyLrpS9gwQqJUR968/preview",
+  "film_content": "DOCTOR STRANGE là câu chuyện về bác sĩ Giải Phẫu Thần Kinh tên Stephen Vincent Strange. Cuộc đời anh thay đổi từ sau một tai nạn xe hơi khủng khiếp. Sau tai nạn đó, Stephen nhận ra mình có những năng lực bí ẩn cũng như biết thêm về thế giới ma thuật huyền bí. Từ một vị bác sĩ bình thường, Stephen Strange dần nhận được nhiều siêu năng lực để cứu trái đất khỏi những tai họa.",
+  "status": "Hoàn tất ",
+  "idmb": "7.9",
+  "director": "Scott Derrickson, ",
+  "country": "Mỹ, ",
+  "release_date": "4/11/2016",
+  "timespan": "130 phút",
+  "quality": "Bản đẹp",
+  "resolution": "Full HD",
+  "slug": "Doctor-Strange",
+  "views": 501
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1f4"
+  },
+  "movie_name_eng": "Spider-Man: Homecoming",
+  "movie_name_vie": "Người Nhện: Trở Về Nhà",
+  "poster_link": "/appdata/filmposters/Spider-Man-Homecoming.jpg",
+  "trailer_link": "https://www.youtube.com/embed/n9DwoQ7HWvI",
+  "film_link": "https://drive.google.com/file/d/1rNMVW8J-mwUJClYnuDD0TWlb7w5M4lqc/preview",
+  "film_content": "Tạm biệt hai franchise về thời sinh viên, Spider-Man: Homecoming sẽ lần đầu tiên đưa các khán giả đến với cuộc sống trung học của Peter Paker – siêu anh hùng Người Nhện. Liệu một cậu bé chưa trưởng thành sẽ làm thế nào để cân bằng cuộc sống bình thường và trách nhiệm của một anh hùng giải cứu thế giới.Sau những sự kiện ở Captain America: Civil War, Peter Parker trở về cuộc sống thường nhật, tiếp tục làm cậu học sinh trung học nhút nhát trong mắt bạn bè. Song song đó, chàng thiếu niên 15 tuổi vẫn có thể làm người hùng bảo vệ New York nhờ bộ giáp do Tony Stark / Iron Man (Robert Downey Jr.) tặng cho và nằm dưới sự giám sát từ xa của Happy Hogan (Jon Favreau).",
+  "status": "Hoàn tất ",
+  "idmb": "7.5",
+  "director": "Jon Watts, ",
+  "country": "Mỹ, ",
+  "release_date": "7/7/2017",
+  "timespan": "133 phút",
+  "quality": "Bản đẹp",
+  "resolution": "Full HD",
+  "slug": "Spider-Man-Homecoming",
+  "views": 453
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1f5"
+  },
+  "movie_name_eng": "Spider-Man: Far from Home",
+  "movie_name_vie": "Người Nhện: Xa Nhà",
+  "poster_link": "/appdata/filmposters/Spider-Man-Far-from-Home.jpg",
+  "trailer_link": "https://www.youtube.com/embed/Nt9L1jCKGnE",
+  "film_link": "https://drive.google.com/file/d/1dGJdP15B-8NrfMJy3TuHiduKDKeVTPbT/preview",
+  "film_content": "Hậu chiến Vô Cực, Người Nhện Peter Parker và nhóm bạn thân cùng tham gia chuyến du lịch châu Âu của trường. Tuy nhiên, kế hoạch siêu anh hùng nghỉ phép của Peter nhanh chóng bị hủy bỏ sau khi cậu đồng ý giúp Nick Fury khám phá bí ẩn về những cuộc tấn công của nhóm kẻ thù mang sức mạnh nguyên tố đang tàn phá khắp lục địa.",
+  "status": "Hoàn tất ",
+  "idmb": "7.6",
+  "director": "Jon Watts, ",
+  "country": "Mỹ, ",
+  "release_date": "28/6/2019",
+  "timespan": "129 phút",
+  "quality": "Bản đẹp",
+  "resolution": "Full HD",
+  "slug": "Spider-Man-Far-from-Home",
+  "views": 482
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1f6"
+  },
+  "movie_name_eng": "Black Panther",
+  "movie_name_vie": "Chiến binh Báo Đen",
+  "poster_link": "/appdata/filmposters/Black-Panther.jpg",
+  "trailer_link": "https://www.youtube.com/embed/xjDjIWPwcPU",
+  "film_link": "https://drive.google.com/file/d/1B82HlouzVs_Ny7WDgmotx_yuSUcf5kea/preview",
+  "film_content": "Vương quốc Wakanda, quê hương của Black Panther/ T'Challa hiện ra qua lời kể của một nhân chứng sống sót trở về. Đây là quốc gia khá khép kín và sở hữu lượng Vibranium lớn nhất trên thế giới. Black Panther - người cầm quyền của Wakanda sở hữu bộ áo giáp chống đạn và móng vuốt sắc nhọn, anh được miêu tả là “người tốt với trái tim nhân hậu”. Nhưng cũng chính vì những đức tính tốt này mà Black Panther gặp khó khăn khi kế thừa ngai vàng sau khi vua cha băng hà. Đối mặt với sự phản bội và hiểm nguy, vị vua trẻ phải tập hợp các đồng minh và phát huy toàn bộ sức mạnh của Black Panther để đánh bại kẻ thù, đem lại an bình cho nhân dân của mình.",
+  "status": "Hoàn tất ",
+  "idmb": "7.7",
+  "director": "Ryan Coogler, ",
+  "country": "Mỹ, ",
+  "release_date": "16/2/2018",
+  "timespan": "134 phút",
+  "quality": "Bản đẹp",
+  "resolution": "Full HD",
+  "slug": "Black-Panther",
+  "views": 702
+},{
+  "_id": {
+    "$oid": "609c05df3013ab231965d1f7"
+  },
+  "movie_name_eng": "Captain Marvel",
+  "movie_name_vie": "Đại Úy Marvel",
+  "poster_link": "/appdata/filmposters/Captain-Marvel.jpg",
+  "trailer_link": "https://www.youtube.com/embed/Z1BCujX3pw8",
+  "film_link": "https://drive.google.com/file/d/12lQ8uUgm9SkB3Oso7KTGNPX-gkTabxbS/preview",
+  "film_content": "Lấy bối cảnh những năm 90s, Captain Marvel là một cuộc phiêu lưu hoàn toàn mới đến với một thời kỳ chưa từng xuất hiện trong vũ trụ điện ảnh Marvel. Bộ phim kể về con đường trở thành siêu anh hùng mạnh mẽ nhất vũ trụ của Carol Danvers. Bên cạnh đó, trận chiến ảnh hưởng đến toàn vũ trụ giữa tộc Kree và tộc Skrull đã lan đến Trái Đất, liệu Danvers và các đồng minh có thể ngăn chặn binh đoàn Skrull cũng như các thảm họa tương lai?",
+  "status": "Hoàn tất ",
+  "idmb": "7.1",
+  "director": "Anna Boden, Ryan Fleck, ",
+  "country": "Mỹ, Úc, ",
+  "release_date": "6/3/2019",
+  "timespan": "123 phút",
+  "quality": "Bản đẹp",
+  "resolution": "Full HD",
+  "slug": "Captain-Marvel",
+  "views": 300
+}]
