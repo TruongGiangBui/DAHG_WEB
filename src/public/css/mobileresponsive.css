@@ -1,0 +1,395 @@
+.nav__overlay {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.3);
+  z-index: 1;
+  display: none;
+  animation: fadeIn linear 0.2s; }
+
+.header__navbar__mobile {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  width: 250px;
+  max-width: 100%;
+  background-color: var(--white-color);
+  z-index: 1;
+  transform: translateX(100%);
+  opacity: 0;
+  transition: all linear 0.2s; }
+
+@keyframes fadeIn {
+  from {
+    opacity: 0; }
+  to {
+    opacity: 1; } }
+
+.header__navbar__mobile-header {
+  width: 100%;
+  height: 60px;
+  background-color: var(--primary-color);
+  padding: 5px;
+  padding-left: 10px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center; }
+
+.header-menu-mobile-exit {
+  font-size: 4rem;
+  font-weight: 10;
+  color: var(--white-color); }
+
+.header-menu-logo {
+  height: 50px; }
+
+.header__navbar-list__mobile {
+  list-style: none;
+  padding-left: 0; }
+
+.header__navbar-item__mobile {
+  display: flex;
+  color: var(--text-color);
+  font-size: 1.6rem;
+  height: 40px;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+  margin-left: 0;
+  align-items: center; }
+
+.header__navbar-item-link__mobile {
+  text-decoration: none;
+  color: var(--text-color);
+  padding-left: 40px;
+  width: 100%;
+  height: 100%;
+  line-height: 100%;
+  display: flex;
+  align-items: center; }
+
+.header__navbar-icon__mobile {
+  margin-right: 6px; }
+
+.header__notify__mobile {
+  display: none;
+  padding: 20px;
+  padding-top: 0px;
+  animation: alertshow  ease-in 0.2s;
+  transform-origin: top; }
+
+.header__notify-header__mobile {
+  font-size: 1.4rem;
+  font-weight: 600; }
+
+.header__notify-list__mobile {
+  padding-left: 0px;
+  list-style: none; }
+
+.header__notify-item-mobile {
+  width: calc(100%-40px);
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+  border-top: 1px solid rgba(0, 0, 0, 0.3); }
+
+.header__notify-link-mobile {
+  display: flex; }
+
+.header__notify-img-mobile {
+  width: 40px; }
+
+.header__notify-info-mobile {
+  margin-left: 5px;
+  flex: 1;
+  font-weight: 500;
+  font-size: 1.6rem;
+  word-wrap: break-word; }
+
+.header__userinfo__mobile {
+  width: 100%;
+  display: flex; }
+
+.header__navbar-userinfo__mobile {
+  width: 100%;
+  border-bottom: 1px solid rgba(0, 0, 0, 0.3);
+  padding: 15px;
+  padding-left: 20px;
+  padding-right: 20px;
+  display: none;
+  animation: alertshow  ease-in 0.2s;
+  transform-origin: top; }
+
+@keyframes alertshow {
+  from {
+    opacity: 0;
+    transform: scale(0); }
+  to {
+    opacity: 1;
+    transform: scale(1); } }
+
+.header__userinfo-logo__mobile {
+  width: 50px;
+  height: 50px;
+  border-radius: 25px;
+  object-fit: cover;
+  overflow: hidden;
+  object-position: center;
+  margin-right: 10px; }
+
+.header__userinfo__mobile-box {
+  flex: 1;
+  color: var(--text-color); }
+
+.header__userinfo__mobile-name {
+  font-size: 1.4rem;
+  font-weight: 500; }
+
+.header__userinfo__mobile-username {
+  font-size: 1.2rem;
+  font-weight: 400; }
+
+.menubutton-mobile {
+  background-color: var(--primary-color);
+  width: 100%;
+  height: 50px;
+  margin-top: 10px;
+  color: var(--white-color);
+  font-size: 2rem;
+  font-weight: 700;
+  text-align: center;
+  line-height: 50px;
+  border: none;
+  outline: none; }
+
+.menubutton-mobile:hover {
+  background-color: teal; }
+
+.menubutton-mobile:active {
+  transform: translateY(2px); }
+
+.header-search-mobile-container {
+  background-color: #94abce;
+  height: 55px;
+  position: relative;
+  display: none;
+  z-index: 1;
+  padding-bottom: 5px;
+  animation: alertshow  ease-in 0.2s;
+  transform-origin: top; }
+
+.header__search-mobile {
+  background-color: var(--white-color);
+  height: 40px;
+  border-radius: 10px;
+  margin: auto;
+  width: 90%;
+  margin-left: 20px; }
+
+.header__search-form-mobile {
+  width: 100%;
+  height: 100%;
+  display: flex; }
+
+.header__search-input-mobile {
+  width: 100%;
+  height: 100%;
+  border-radius: 10px;
+  border: none;
+  outline: none;
+  font-size: 2rem;
+  padding: 0 16px;
+  color: var(--text-color); }
+
+.header__search-btn-mobile {
+  display: inline;
+  background-color: var(--primary-color);
+  border: none;
+  outline: none;
+  width: 100px;
+  border-radius: 8px;
+  margin-right: 2px;
+  height: 90%;
+  align-self: center; }
+
+.header__search-btn-mobile:hover {
+  background-color: teal; }
+
+.header__search-btn-mobile:active {
+  transform: translateY(2px); }
+
+.header__search-btn-icon-mobile {
+  font-size: 1.8rem;
+  color: var(--white-color); }
+
+#nav-mobile-input:checked ~ .nav__overlay {
+  display: block; }
+
+#nav-mobile-input:checked ~ .header__navbar__mobile {
+  transform: translateX(0%);
+  opacity: 1; }
+
+#showaccount:checked ~ .header__navbar-userinfo__mobile {
+  display: block; }
+
+#shownotify:checked ~ .header__notify__mobile {
+  display: block; }
+
+.header_menu_icon {
+  position: absolute;
+  top: 5px;
+  right: 5px; }
+
+#nav-mobile-search:checked ~ .header-search-mobile-container {
+  display: flex; }
+
+@media only screen and (max-width: 36.875em) {
+  .header__navbar__btn {
+    font-size: 3rem;
+    color: var(--white-color);
+    display: block;
+    padding: 5px; }
+  .header__navbar {
+    display: none; }
+  .header__search {
+    display: none; }
+  .header-with-search {
+    display: block; }
+  .header-logo {
+    width: 70px;
+    padding: 3px; }
+  .header {
+    height: 50px; }
+  .footer-contact {
+    width: 100%; }
+  .home-films-item__img {
+    height: 250px; }
+  .grid__column-9 {
+    width: 100%; }
+  .grid__column-3 {
+    width: 50%; }
+  .grid__row {
+    margin-left: -5px;
+    margin-right: -5px; }
+  .most_view_list {
+    width: 100%; }
+  .loginform-block {
+    margin-left: 5%;
+    width: 90%; }
+  .loginform__btn {
+    margin-left: 10%;
+    width: 80%; }
+  .historyframe {
+    margin-left: 2%;
+    width: 96%; }
+  .history-list {
+    padding-left: 5px; }
+  .history-item {
+    width: 95%; }
+  .history-item-nameeng {
+    font-size: 1.8rem;
+    line-height: 3.6rem;
+    margin-top: 0;
+    margin-bottom: 0; }
+  .history-item-namevie {
+    font-size: 1.2rem;
+    margin-top: 5px; }
+  .film_poster_mobile {
+    width: 100%; }
+  .film-detail {
+    margin-left: 2%;
+    margin-right: 2%; }
+  .film-detail_mobile {
+    width: 100%; }
+  .film-detail-name {
+    -webkit-line-clamp: 3; }
+  .film-btn {
+    width: 45%; }
+  .film-content-block {
+    width: 90%;
+    margin-left: 5%; }
+  .film-content-header {
+    font-size: 2.2rem; }
+  .film-content-text {
+    font-size: 1.8rem; }
+  .film-trailer-block {
+    width: 90%;
+    margin-left: 5%; }
+  .trailer-frame {
+    width: 100%;
+    height: 200px; }
+  .film-content__watch {
+    margin: 0; }
+  .film-watch-block {
+    margin-left: 0;
+    width: 100%;
+    padding: 0;
+    max-height: 500px;
+    padding-bottom: 10px;
+    border-radius: 5px; }
+  .film-content-header {
+    padding-left: 10px; }
+  .manage_film {
+    margin-left: 2%;
+    width: 96%; }
+  .manage__account-tab {
+    padding: 5px;
+    display: block; }
+  .manage__account-avt_box {
+    width: 100%;
+    display: flex;
+    justify-content: center; }
+  .manage__account-avt {
+    margin-left: calc(100%-75px); }
+  .changepass_btn {
+    width: 100%;
+    font-size: 2rem; }
+  .change-password-tab {
+    margin: 5px;
+    padding: 20px; }
+  .change-password-form {
+    width: 100%; }
+  .film__upload__box {
+    display: block; }
+  .film__upload__form-label {
+    width: 100%; }
+  .film__upload__input {
+    font-size: 1.8rem; }
+  .confirm_change_btn {
+    width: 100%;
+    font-size: 2rem; }
+  .admin_button {
+    width: 100%;
+    overflow: hidden; }
+  .manage__film-search {
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%; }
+  .manage__film-search__input {
+    font-size: 2rem;
+    width: 80%; }
+  .manage__film-list {
+    padding-left: 0; }
+  .manage__film-list-item {
+    width: 100%; }
+  .film__upload__form {
+    padding: 10px; }
+  .upload-form-submit-btn {
+    width: 100%; }
+  .manage__film-item-title {
+    font-size: 1.6rem; }
+  .manage__film-item-title-vie {
+    font-size: 1.2rem;
+    line-height: 1.2rem; }
+  .intro__logo {
+    width: 100px; }
+  .intro__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; }
+  .intro__header-btn {
+    width: 100px;
+    margin-left: 5px;
+    margin-right: 5px; }
+  .intro__body-btn {
+    font-size: 3rem;
+    width: 250px; } }

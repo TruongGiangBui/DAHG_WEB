@@ -1,0 +1,137 @@
+@media only screen and (min-width: 36.876em) and (max-width: 64em) {
+  .header__navbar__btn {
+    font-size: 3rem;
+    color: var(--white-color);
+    display: block;
+    padding: 5px; }
+  .header__navbar {
+    display: none; }
+  .header__search {
+    display: none; }
+  .header-with-search {
+    display: block; }
+  .header-logo {
+    width: 70px;
+    padding: 3px; }
+  .header {
+    height: 50px; }
+  .grid__column-3 {
+    width: 25%; }
+  .grid__row {
+    margin-left: -5px;
+    margin-right: -5px; }
+  .grid__column-9 {
+    width: 100%; }
+  .most_view_list {
+    width: 100%; }
+  .home-films-item__name {
+    font-size: 1.7rem; }
+  .film_poster_mobile {
+    width: 40%;
+    padding-left: 40px; }
+  .film-detail {
+    margin-left: 2%;
+    margin-right: 2%; }
+  .film-detail_mobile {
+    width: 60%; }
+  .film-detail-name {
+    -webkit-line-clamp: 3; }
+  .film-btn {
+    width: 45%; }
+  .film-content-block {
+    width: 90%;
+    margin-left: 5%; }
+  .film-content-header {
+    font-size: 2.2rem; }
+  .film-content-text {
+    font-size: 1.8rem; }
+  .film-trailer-block {
+    width: 90%;
+    margin-left: 5%; }
+  .trailer-frame {
+    width: 100%;
+    height: 400px; }
+  .film-content__watch {
+    margin: 0; }
+  .film-watch-block {
+    max-height: 600px; }
+  .film-content-header {
+    padding-left: 10px; }
+  .loginform-block {
+    margin-left: 5%;
+    width: 90%; }
+  .loginform__btn {
+    margin-left: 10%;
+    width: 80%; }
+  .historyframe {
+    margin-left: 2%;
+    width: 96%; }
+  .history-list {
+    padding-left: 5px; }
+  .history-item {
+    width: 95%; }
+  .history-item-nameeng {
+    font-size: 2.2rem;
+    line-height: 3.6rem;
+    margin-top: 0;
+    margin-bottom: 0; }
+  .history-item-namevie {
+    font-size: 1.5rem;
+    margin-top: 5px; }
+  .change-password-tab {
+    margin: 5px;
+    padding: 20px; }
+  .change-password-form {
+    width: 100%; }
+  .film__upload__box {
+    display: block; }
+  .film__upload__form-label {
+    width: 100%; }
+  .film__upload__input {
+    font-size: 1.8rem; }
+  .confirm_change_btn {
+    width: 100%;
+    font-size: 2rem; }
+  .admin_button {
+    width: 100%;
+    overflow: hidden; }
+  .manage__film-search {
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 90%; }
+  .manage__film-search__input {
+    font-size: 2rem;
+    width: 80%; }
+  .manage__film-list {
+    padding-left: 20px;
+    padding-right: 20px; }
+  .manage__film-list-item {
+    width: 100%; }
+  .film__upload__form {
+    padding: 10px; }
+  .upload-form-submit-btn {
+    width: 100%; }
+  .manage__film-item-title {
+    font-size: 2rem; }
+  .manage__film-item-title-vie {
+    font-size: 1.6rem;
+    line-height: 1.6rem; }
+  .intro__logo {
+    width: 100px; }
+  .intro__header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center; }
+  .intro__header-btn {
+    width: 100px;
+    margin-left: 5px;
+    margin-right: 5px; }
+  .intro__body-btn {
+    font-size: 3rem;
+    width: 250px; } }
+
+@media only screen and (min-width: 36.876em) and (max-width: 50em) {
+  .grid__column-3 {
+    width: 33.33%; }
+  .most_view_list {
+    width: 100%; } }

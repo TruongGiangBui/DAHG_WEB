@@ -25,8 +25,8 @@ app.engine(
 );
 app.set('view engine', 'hbs');
 app.set('views', path.join(__dirname, 'resources','views'));
-app.use(cookieParser());
-app.use(multer().array())
+app.use(cookieParser("sghdfuasuifysa2ywu8434"));
+
 route(app);
 
 app.listen(port, () => {

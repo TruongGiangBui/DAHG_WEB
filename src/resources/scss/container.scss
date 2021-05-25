@@ -699,3 +699,51 @@
     display: none;
     overflow-wrap: normal;
 }
+
+.intro__logo{
+    width: 180px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+.intro__header{
+    width: 100%;
+    height: 120px;
+    background-color: rgba(51, 51, 51, 0.493);
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.intro__header-btn-tab{
+    display: flex;
+    align-items: center;
+}
+.intro__header-btn-link{
+    text-decoration: none;
+}
+.intro__header-btn{
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgba(1, 84, 122, 0.726);
+}
+.intro__header-btn:active{
+    background-color: rgba(122, 1, 1, 0.726);
+}
+.intro__body{
+    width: 100%;
+    height: 500px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.intro__body-btn{
+    background-color: rgba(1, 84, 122, 0.726);
+    width: 400px;
+    height: 100px;
+    line-height: 100px;
+    font-size: 4rem;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.intro__body-btn:active{
+    background-color: rgba(122, 1, 1, 0.726);
+}

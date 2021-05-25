@@ -169,6 +169,23 @@
         font-size: 1.6rem;
         line-height: 1.6rem;
     }
+    .intro__logo{
+        width: 100px;
+    }
+    .intro__header{
+        display: flex;
+        justify-content:space-between;
+        align-items: center;
+    }
+    .intro__header-btn{
+        width: 100px;
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .intro__body-btn{
+        font-size: 3rem;
+        width: 250px;
+    }
 }
 @media only screen and (min-width:36.876em) and (max-width:50em){
     .grid__column-3{

@@ -5,7 +5,8 @@ const md5=require('md5')
 module.exports = {
     validatesignupform(req, res, next) {
         for (var key in req.body) {
-            if(req.body[key]=="") res.redirect("/user/signup?err=3")
+            if (req.body[key] == "") res.redirect("/user/signup?err=3")
+            if(req.body[key].match(/\[|\]|\}|\{/g)) res.redirect("/user/signup?err=4")
         }
         if (!(req.body.password === req.body.confirmpassword))
             res.redirect("/user/signup?err=2")
@@ -14,7 +15,8 @@ module.exports = {
     },
     validatechangepasswordform(req, res, next) {
         for (var key in req.body) {
-            if(req.body[key]=="") res.redirect("/user/manageaccount?err=1")
+            if (req.body[key] == "") res.redirect("/user/manageaccount?err=1")
+            if(req.body[key].match(/\[|\]|\}|\{/g)) res.redirect("/user/manageaccount?err=1")
         }
         if (!(req.body.newpassword === req.body.confirmnewpassword))
             res.redirect("/user/manageaccount?err=2")     
@@ -33,6 +35,9 @@ module.exports = {
         for (var key in req.body)
         {
             if (req.body[key].trim() == "") err = 1;
+            if (req.body[key].trim().match(/\[|\]|\}|\{/g)) {
+                req.body[key].replace(/\[|\]|\}|\{/g," ")
+            }
         }
         if (!validateYouTubeUrl(req.body.trailer_link)) err = 2;
         if (!validateDriveUrl(req.body.film_link)) err = 3;
@@ -83,6 +88,9 @@ module.exports = {
         for (var key in req.body)
         {
             if (req.body[key].trim() == "") err = 1;
+            if (req.body[key].match(/\[|\]|\}|\{/g)) {
+                req.body[key].replace(/\[|\]|\}|\{/g," ")
+            }
         }
         if (!validateYouTubeUrl(req.body.trailer_link)) err = 2;
         if (!validateDriveUrl(req.body.film_link)) err = 3;

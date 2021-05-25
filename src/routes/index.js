@@ -1,4 +1,5 @@
 const homeRouter = require('./home');
+const introRouter = require('./intro');
 const searchRouter = require('./search');
 const filmRouter = require('./films');
 const apiRouter = require('./apis')
@@ -21,6 +22,7 @@ function route(app) {
   app.use('/user',manageaccountRouter)
   app.use('/apis',apiRouter)
   app.use('/films', filmRouter);
+  app.use('/', introRouter);
   app.use('/', searchRouter);
   app.use('/', homeRouter);
 }

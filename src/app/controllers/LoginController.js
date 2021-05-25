@@ -2,10 +2,10 @@ const User=require('../models/User')
 class LoginController {
   //[GET] /
   index(req, res, next) {
-    if (req.cookies.user) {
-      User.findOne({ username: req.cookies.user})
+    if (req.signedCookies.user) {
+      User.findOne({ username: req.signedCookies.user})
       .then(user => {
-          if (user.username === req.cookies.user&&(user.role==="user"||user.role==="admin")) {
+          if (user.username === req.signedCookies.user&&(user.role==="user"||user.role==="admin")) {
             res.redirect("/");
           }
           else loadpage(req, res, next)

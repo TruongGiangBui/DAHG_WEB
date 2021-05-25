@@ -6,8 +6,12 @@ class HomeController {
   index(req, res, next) {
     Film.find({})
       .then((films) => {
+        var page = 1;
+        if (req.query.page) page = Number(req.query.page);
+        var begin = (page - 1) * 12
+        var end = page * 12;
         res.render('home', {
-          films: multipleMongooseToObject(films),
+          films: multipleMongooseToObject(films).slice(begin,end),
         });
       })
       .catch(next);
